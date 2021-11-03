@@ -73,6 +73,11 @@
   }
 }
 .pp{
-  align-items: center;
-  align-tracks: initial;
+  display: inline-block;
+}
+.form-check-label{
+  color: bisque;
+}
+.form-group{
+  padding: 3px;
 }
